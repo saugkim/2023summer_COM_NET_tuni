@@ -1,7 +1,7 @@
 **Question 1**  
 
 Choose the best matching explanation for each term related to IP networks.
-
+```
 Multicast:  one sender, multiple receivers in a specified group of receivers
  
 Broadcast : one sender, multiple receivers
@@ -9,20 +9,20 @@ Broadcast : one sender, multiple receivers
 Anycast : one sender, one receiver in a specified group of receivers
  
 Unicast : one sender, one receiver
-
+```
 
 **Question 2**
 
 Choose the best matching explanation for each term related to IP subnetworks.
-
+```
 Broadcast address : last address of the subnetwork
  
 Last host address: second to last address of the subnetwork
  
 First host address: second address of the subnetwork
- 
+
 Network address : first address of the subnetwork
- 
+``` 
  
 **Question 3**
 
