@@ -1,6 +1,5 @@
-instruction 
 
-Remote connection quick start guide
+### Remote connection quick start guide
 
 
 **OpenVPN:**
@@ -49,10 +48,9 @@ Linux instructions
 
 In case GNS3 did not install the protocol analyzer Wireshark, you can install it from here (Windows/Mac) or from your packet repository of choice (Linux).
 
-GNS3 Quick start guideFile
 
 
-**Basic commands and quick tips**
+### Basic commands and quick tips**
 
 ```
 (Cisco OS) The question mark ? is your best friend. 
@@ -68,3 +66,4 @@ keywords and the system will accept them if they are unambiguous.
   - Example 1: ip address add 10.0.0.1 is the same as ip a a 10.0.0.1
   - Example 2: configure terminal is the same as conf t
 ```
+
