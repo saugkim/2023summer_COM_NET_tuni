@@ -4,14 +4,16 @@ Target audience: those who want to start learning networking. We cover the basic
 
 Implementation period:  Summer 2023
 
-Type of teaching: remote guidance via bi-weekly meetings, self-learning, meeting dates:
-    - 22.05
-    - 05.06
-    - 19.06
-    - 03.07
-    - 17.07
-    - 31.07
-    - 14.08 (if needed)
+Type of teaching: remote guidance via bi-weekly meetings, self-learning, meeting dates: 
+```
+     - 22.05
+     - 05.06
+     - 19.06
+     - 03.07
+     - 17.07
+     - 31.07
+     - 14.08 (if needed)
+```
 
 **Course contact persons:**  
 Lectures, exam, other exercises: dmitri.moltchanov@tuni.fi  
@@ -25,13 +27,16 @@ In order to pass this course you are expected to complete the following:
     - Exam (organized remotely)
 
 
-**Course grading: pass/fail**
+Course grading: pass/fail
+
 
 Recommended book: Computer Networking: A Top-Down Approach, 8th Edition
 
 Older editions are suitable as well, and available legally online https://drive.google.com/file/d/1x8eywAEnlLhStsFCQNyhyjf-Zcje04Zf/view?usp=sharing
 
 Link: Online materials (video lectures, slides, exercises etc.) provided by the authors of the book http://gaia.cs.umass.edu/kurose_ross/index.php
+
+<br>
 
 **Lectures**  
 
@@ -100,8 +105,8 @@ Video (2021): https://drive.google.com/file/d/11bhh7KACzwWZHUqCpxUFxTlnt3r5NjRI/
 Video (2022): https://drive.google.com/file/d/1MSC5u6fRrTsCxcAaiZtzmIxMKeCcxzBo/view?usp=sharing
 
 
-Materials
-
+**Materials**
+```
 OSI and TCP/IP protocol stacksFile
 Physical and link layer protocolsFile
 Network layer: IPv4 and ICMPFile
@@ -113,3 +118,5 @@ TCP: congestion controlFile
 Application layer protocols: DNS/HTTP/FTPFile
 Application layer: introduction to P2PFile
 Bonus material: VLANs and TunnelingFile
+```
+
