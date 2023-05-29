@@ -66,15 +66,15 @@ Switch : forwards packets based on their destination MAC address
 What does the switch do if it doesn't know which port it should use to reach the destination device?
 
 ```
-a.It sends an error message to the sender of the packet as an ICMP packet. -- wrong
+a.It sends an error message to the sender of the packet as an ICMP packet. 
 
 b.It sends an ARP packet as broadcast requesting the MAC address of the destination device.
 
-c.It sends a packet from all ports in the same way as a broadcast. -- next?
+c.It sends a packet from all ports in the same way as a broadcast. -- 
 
 d.It queries the device that sent the packet for the correct destination using an ARP packet.
 
-e.It discards the packet. -- wrong  
+e.It discards the packet. 
 ```
 
 **Question 7**
@@ -147,10 +147,12 @@ Imagine that your PCs IP address is 130.230.83.12/25 and you have just joined th
 8.8.8.8 != query host with ARP 
         != forward packet to default gateway
         != drop the packet
+        == query default gateway with ARP
  
 130.230.83.200 != query default gateway with ARP 
                != query host with ARP
                != change destination IP to default gateway
+               == forward packet to default gateway
  
 130.230.83.2 (again) = send packet directly to host
 ```
