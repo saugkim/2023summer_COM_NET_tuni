@@ -5,12 +5,12 @@ Remote connection quick start guide
 
 **OpenVPN:**
 
-Install an OpenVPN client: OpenVPN GUI (Windows) or OpenVPN Connect (macOS)
+Install an OpenVPN client: OpenVPN GUI (Windows https://openvpn.net/community-downloads/) or OpenVPN Connect (macOS https://openvpn.net/client-connect-vpn-for-mac-os/)
 
 Establish the VPN connection using the following config file: GNS3.ovpn (Right-click link and Save link as, or copy and paste the contents to a text editor and save it as an .ovpn file)
 (If you chose Save as) Check that the file was saved properly, and not as a web page.
 
-If the connection works, you should be able to use a browser to connect to http://172.16.253.1:3080/
+If the connection works, you should be able to use a browser to connect to   http://172.16.253.1:3080/
 
 You could in theory do the exercise with the Web GUI, but it's not recommended nor officially supported.
 
