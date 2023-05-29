@@ -50,7 +50,7 @@ In case GNS3 did not install the protocol analyzer Wireshark, you can install it
 
 
 
-### Basic commands and quick tips**
+### Basic commands and quick tips
 
 ```
 (Cisco OS) The question mark ? is your best friend. 
