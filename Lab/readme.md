@@ -17,30 +17,32 @@ You could in theory do the exercise with the Web GUI, but it's not recommended n
 
 **GNS3:**
 
+```
+1. Install GNS3 version 2.2.39 (other versions do not work with our server). 
 
-Install GNS3 version 2.2.39 (other versions do not work with our server). 
-
-GitHub links (Windows, Mac, source code)
+GitHub links (Windows, Mac, source code) https://github.com/GNS3/gns3-gui/releases/tag/v2.2.39
 
 Linux instructions
+    - IOU and Docker support are not needed.
+    - In short: either add the repo and simply install the package via package manager, or,
+    install prerequisite packages and install GNS3 via pip. 
+    Nothing else should be needed
+    - In the install commands, you have to specify the version, for example, 
+    apt install gns3-gui=2.2.39 or pip install gns3-gui==2.2.39
 
-IOU and Docker support are not needed.
+2. Make sure that the OpenVPN connection is established.
 
-In short: either add the repo and simply install the package via package manager, or, install prerequisite packages and install GNS3 via pip
-Nothing else should be needed
+3. Run GNS3. In the setup wizard, 
+  - choose "Run appliances on a remote server (advanced usage)" 
+  - and click "Next >"
 
-In the install commands, you have to specify the version, for example, apt install gns3-gui=2.2.39 or pip install gns3-gui==2.2.39
+4. Set the following parameters:
+  - Host: 172.16.253.1
+  - Port: 3080 TCP
+  - Authentication not used
 
-Make sure that the OpenVPN connection is established.
-
-Run GNS3. In the setup wizard, choose "Run appliances on a remote server (advanced usage)" and click "Next >"
-Set the following parameters:
-```
-Host: 172.16.253.1
-Port: 3080 TCP
-Authentication not used
-Click "Next >"
-Click "Finish"
+5. Click "Next >"
+6. Click "Finish"
 ```
 
 **Wireshark:**
@@ -48,3 +50,21 @@ Click "Finish"
 In case GNS3 did not install the protocol analyzer Wireshark, you can install it from here (Windows/Mac) or from your packet repository of choice (Linux).
 
 GNS3 Quick start guideFile
+
+
+**Basic commands and quick tips**
+
+```
+(Cisco OS) The question mark ? is your best friend. 
+Whenever you don't know what exactly you should input to a command, 
+insert a question mark and you will receive hints.
+
+(Cisco OS) Use the tabulator (tab) button to auto complete commands 
+after typing a few letters.
+
+(Linux and Cisco OS) You can also input commands with incomplete 
+keywords and the system will accept them if they are unambiguous.
+
+  - Example 1: ip address add 10.0.0.1 is the same as ip a a 10.0.0.1
+  - Example 2: configure terminal is the same as conf t
+```
