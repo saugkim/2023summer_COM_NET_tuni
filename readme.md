@@ -6,13 +6,13 @@ Implementation period:  Summer 2023
 
 Type of teaching: remote guidance via bi-weekly meetings, self-learning, meeting dates: 
 ```
-     - 22.05
-     - 05.06
-     - 19.06
-     - 03.07
-     - 17.07
-     - 31.07
-     - 14.08 (if needed)
+     22.05
+     05.06
+     19.06
+     03.07
+     17.07
+     31.07
+     14.08 (if needed)
 ```
 
 **Course contact persons:**  
