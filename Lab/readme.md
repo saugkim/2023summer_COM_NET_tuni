@@ -1,6 +1,13 @@
+### How to Install & Setup OpenVPN on Windows 11
+
+by ProgrammingKnowledge2  
+https://www.youtube.com/watch?v=90w-Q27hX74
+
+configuration and certificate bundle from the links below  
+https://www.vpnbook.com/freevpn
+
 
 ### Remote connection quick start guide
-
 
 **OpenVPN:**
 
