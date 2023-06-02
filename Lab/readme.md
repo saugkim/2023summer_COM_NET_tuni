@@ -6,8 +6,14 @@ https://www.youtube.com/watch?v=90w-Q27hX74
 configuration and certificate bundle from the links below  
 https://www.vpnbook.com/freevpn
 
-
+IP addresses  
 https://jodies.de/ipcalc?host=10.0.2.0&mask1=24&mask2=
+
+
+http://172.16.253.1:3080/static/web-ui/server/1/projects
+
+Kim_41523769722
+
 
 
 ### Remote connection quick start guide
