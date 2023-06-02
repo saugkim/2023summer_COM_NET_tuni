@@ -7,6 +7,9 @@ configuration and certificate bundle from the links below
 https://www.vpnbook.com/freevpn
 
 
+https://jodies.de/ipcalc?host=10.0.2.0&mask1=24&mask2=
+
+
 ### Remote connection quick start guide
 
 **OpenVPN:**
