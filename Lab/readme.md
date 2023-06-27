@@ -25,7 +25,9 @@ Instructions are located in the COMM.NET Labs meta course.
 
 **Remote laboratory instructions**  
 Version 2023-06-07: Fixed incorrect network on page 10
+> https://github.com/saugkim/2023summer_COM_NET_tuni/edit/main/Lab/cn1-remote-labv1.pdf
 
+ 
 **Report submission / Credit for laboratory exercise**   
 
 1. Follow the instructions and compile a report from the answers in PDF format in English or Finnish  
