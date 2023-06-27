@@ -120,3 +120,12 @@ Application layer: introduction to P2PFile
 Bonus material: VLANs and TunnelingFile
 ```
 
+
+### Exam
+
+Exam date for English version of COMM.NET.200: TBD
+
+The exam questions will appear here 15 minutes prior to the exam time.
+
+[Sample exam (2021)](https://github.com/saugkim/2023summer_COM_NET_tuni/edit/main/sample.pdf)
+
