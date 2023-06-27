@@ -66,13 +66,18 @@ If the connection works, you should be able to use a browser to connect to http:
 
 In case GNS3 did not install the protocol analyzer Wireshark, you can install it from here (Windows/Mac) or from your packet repository of choice (Linux).
 
+GNS3 Quick start guide[https://github.com/saugkim/2023summer_COM_NET_tuni/edit/main/Lab/gns3-quick-start.pdf]
 
-GNS3 Quick start guideFile
 
-Basic commands and quick tips
+## Basic commands and quick tips
+
 (Cisco OS) The question mark ? is your best friend. Whenever you don't know what exactly you should input to a command, insert a question mark and you will receive hints.
+
 (Cisco OS) Use the tabulator (tab) button to auto complete commands after typing a few letters.
-(Linux and Cisco OS) You can also input commands with incomplete keywords and the system will accept them if they are unambiguous.
-Example 1: ip address add 10.0.0.1 is the same as ip a a 10.0.0.1
-Example 2: configure terminal is the same as conf t
-Command reference sheet (Linux and Cisco OS)File
+
+(Linux and Cisco OS) You can also input commands with incomplete keywords and the system will accept them if they are unambiguous.  
+        Example 1: ip address add 10.0.0.1 is the same as ip a a 10.0.0.1  
+        Example 2: configure terminal is the same as conf t  
+
+Command reference sheet (Linux and Cisco OS) [https://github.com/saugkim/2023summer_COM_NET_tuni/edit/main/Lab/cmd-en.pdf]
+
