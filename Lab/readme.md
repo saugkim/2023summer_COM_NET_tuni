@@ -31,15 +31,15 @@ Version 2023-06-07: Fixed incorrect network on page 10
 **Report submission / Credit for laboratory exercise**   
 
 1. Follow the instructions and compile a report from the answers in PDF format in English or Finnish  
- - Report style is free form  
- - Short answers are enough (about 1-3 sentences per question)  
- - List all used sources! A simple list is enough. Plagiarism = automatic failure and possible additional consequences  
+   - Report style is free form  
+   - Short answers are enough (about 1-3 sentences per question)  
+   - List all used sources! A simple list is enough. Plagiarism = automatic failure and possible additional consequences  
 
 2. Save the device configurations as text files or screen captures
 
 3. Submit two items:  
- - The report in PDF format (should not be zipped)  
- - Configurations (7 configs) zipped in one archive or include the configurations at the end of the report  
+   - The report in PDF format (should not be zipped)  
+   - Configurations (7 configs) zipped in one archive or include the configurations at the end of the report  
     
 4. All group members must submit the report; report must include names of group members
 
