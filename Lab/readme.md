@@ -20,26 +20,28 @@ You should score over 85% in this quiz in order to pass. There are unlimited att
 
 
 **Instructions for setting up the remote connection and simulator**  
-Instructions are located in the COMM.NET Labs meta course. 
+Instructions are located in the COMM.NET Labs meta course.  
+> https://github.com/saugkim/2023summer_COM_NET_tuni/edit/main/Lab/instruction.md
 
 **Remote laboratory instructions**  
 Version 2023-06-07: Fixed incorrect network on page 10
 
 **Report submission / Credit for laboratory exercise**   
-Follow the instructions and compile a report from the answers in PDF format in English or Finnish  
-     - Report style is free form  
-     - Short answers are enough (about 1-3 sentences per question)  
-     - List all used sources! A simple list is enough. Plagiarism = automatic failure and possible additional consequences  
 
-Save the device configurations as text files or screen captures
+1. Follow the instructions and compile a report from the answers in PDF format in English or Finnish  
+ - Report style is free form  
+ - Short answers are enough (about 1-3 sentences per question)  
+ - List all used sources! A simple list is enough. Plagiarism = automatic failure and possible additional consequences  
 
-Submit two items:  
-     - The report in PDF format (should not be zipped)  
-     - Configurations (7 configs) zipped in one archive or include the configurations at the end of the report  
+2. Save the device configurations as text files or screen captures
+
+3. Submit two items:  
+ - The report in PDF format (should not be zipped)  
+ - Configurations (7 configs) zipped in one archive or include the configurations at the end of the report  
     
-All group members must submit the report; report must include names of group members
+4. All group members must submit the report; report must include names of group members
 
-Graded pass/fail. Passing mark is a working implementation and about 66% correct answers.  
+5. Graded pass/fail. Passing mark is a working implementation and about 66% correct answers.  
      - Failed reports can be resubmitted once if submitted before the due date.  
      - Reports are usually checked within 1-2 weeks(Exception: Reports submitted between June 16th and July 31st will be checked in early August).  
 
