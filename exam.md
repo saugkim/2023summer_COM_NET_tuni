@@ -24,7 +24,7 @@ Why do we require Layered architecture?
 
 3. Why does IEEE standardize only two lower layers in Wi-Fi?
 > IEEE 802 specifications are focused on the two lowest layers of the OSI model because they incorporate both physical and data link components.
-> https://www.linkedin.com/pulse/internet-things-part-12-mahendra-bhatia#:~:text=IEEE%20802%20specifications%20are%20focused,physical%20and%20data%20link%20components.
+> https://www.linkedin.com/pulse/internet-things-part-12-mahendra-bhatia#:~:text=IEEE%20802%20specifications%20are%20focused,physical%20and%20data%20link%20components.  
 > https://www.scaler.com/topics/computer-network/ieee-standards-in-computer-networks/
 
 4. What are the functionalities of network (IP) layer?
