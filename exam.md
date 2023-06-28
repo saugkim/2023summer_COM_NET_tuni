@@ -119,7 +119,6 @@ Hosts/Net: 1048574               (Private Internet)
 > https://jodies.de/ipcalc
 
 
-
 10. What is the difference between congestion control and flow control?
 >
 
@@ -133,11 +132,18 @@ Hosts/Net: 1048574               (Private Internet)
 >
 
 14. What are the two service models in the Internet?
-> traditional lightweight service model
-> heavyweight grid service model 
+> traditional lightweight service model vs heavyweight grid service model  
 > https://www.cs.cmu.edu/afs/cs/project/cmcl/archive/Remulac-papers/msu99/sld015.htm
->
+> 
+> Client/Server model vs Peer-To-Peer model
 > 
 
 15. Choose ands briefly describe one application layer protocol.
-> 
+> DNS
+>
+> HTTP
+>
+> FTP
+>
+> SMTP
+>  
