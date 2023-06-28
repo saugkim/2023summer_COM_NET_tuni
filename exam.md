@@ -39,14 +39,16 @@ Why or why not?
 
 7. Why two logical parts an IP address consists of? Why do we need that?
 > The bytes of the IP address are further classified into two parts: the network part and the host part. Figure 3-1 shows the component parts of a typical IP address, 129.144.50.56.
+> 
 > Network Part  
 > - This part specifies the unique number assigned to your network. It also identifies the class of network assigned. In Figure 3-1, the network part takes up two bytes of the IP address.
-
+>
 > Host Part
 > - This is the part of the IP address that you assign to each host. It uniquely identifies this machine on your network. Note that for each host on your network, the network part of the address will be the same, but the host part must be different.
-
+>  
 > Why do we need network ID?
 > - An IP address consists of two components: a network ID and a host ID. The network ID identifies the network segment to which the host belongs. The host ID identifies an individual host on some specific network segment. A host can communicate directly only with other hosts on the same network segment. A network segment is a logical division of a network into unique numeric network IDs called subnets. A host must use a router to communicate with hosts on other subnets.
+> 
 > https://www.serverbrain.org/network-design-2003/to-network-id-or-host-id-that-is-the-question.html
 
 8. Why are two subnetwork addresses reserved in any subnetwork? Which are those?
