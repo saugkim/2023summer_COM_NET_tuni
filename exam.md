@@ -39,7 +39,8 @@ Why or why not?
 
 7. Why two logical parts an IP address consists of? Why do we need that?
 > The bytes of the IP address are further classified into two parts: the network part and the host part. Figure 3-1 shows the component parts of a typical IP address, 129.144.50.56.
-> 
+> https://docs.oracle.com/cd/E19504-01/802-5753/planning3-18471/index.html
+>  
 > Network Part  
 > - This part specifies the unique number assigned to your network. It also identifies the class of network assigned. In Figure 3-1, the network part takes up two bytes of the IP address.
 >
@@ -52,7 +53,7 @@ Why or why not?
 > https://www.serverbrain.org/network-design-2003/to-network-id-or-host-id-that-is-the-question.html
 
 8. Why are two subnetwork addresses reserved in any subnetwork? Which are those?
->
+> 
 
 9. Which of these subnets have more addressed for hosts: 10.0.0.0/8 or 172.16.0.0/12?
 >
