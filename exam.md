@@ -135,8 +135,8 @@ Hosts/Net: 1048574               (Private Internet)
 > traditional lightweight service model vs heavyweight grid service model  
 > https://www.cs.cmu.edu/afs/cs/project/cmcl/archive/Remulac-papers/msu99/sld015.htm
 > 
-> Client/Server model vs Peer-To-Peer model
-> 
+> Client/Server model vs Peer-To-Peer model  
+> https://www.networkstraining.com/peer-to-peer-vs-client-server-network/
 
 15. Choose ands briefly describe one application layer protocol.
 > DNS
