@@ -1,13 +1,30 @@
 ## Exam 
 
 1. Why do we need layered protocols organization for communications, e.g., OSI?
->  
+> The data is passed from the upper layer to lower layer through an interface. A Layered architecture provides a clean-cut interface so that minimum information is shared among different layers. It also ensures that the implementation of one layer can be easily replaced by another implementation [source](https://www.javatpoint.com/computer-network-models#:~:text=A%20Layered%20architecture%20provides%20a,is%20known%20as%20network%20architecture)
+> 
+Why do we require Layered architecture?
+ - Divide-and-conquer approach: Divide-and-conquer approach makes a design process in such a way that the unmanageable tasks are divided into small and manageable tasks. In short, we can say that this approach reduces the complexity of the design.
+ - Modularity: Layered architecture is more modular. Modularity provides the independence of layers, which is easier to understand and implement.
+ - Easy to modify: It ensures the independence of layers so that implementation in one layer can be changed without affecting other layers.
+ - Easy to test: Each layer of the layered architecture can be analyzed and tested individually.
 
 2. Name at least two link-layer network topologies. Discuss advantages and shortcomings.
-> 
+> **Types of Network Topology**  
+> The arrangement of a network that comprises nodes and connecting lines via sender and receiver is referred to as Network Topology. The various network topologies are:
+> - Point to Point Topology
+> - Mesh Topology
+> - Star Topology
+> - Bus Topology
+> - Ring Topology
+> - Tree Topology
+> - Hybrid Topology
+>  
+> link-layer network topologies [source](https://www.geeksforgeeks.org/types-of-network-topology/) 
 
 3. Why does IEEE standardize only two lower layers in Wi-Fi?
->
+> IEEE 802 specifications are focused on the two lowest layers of the OSI model because they incorporate both physical and data link components.
+> https://www.linkedin.com/pulse/internet-things-part-12-mahendra-bhatia#:~:text=IEEE%20802%20specifications%20are%20focused,physical%20and%20data%20link%20components.
 
 4. What are the functionalities of network (IP) layer?
 >
