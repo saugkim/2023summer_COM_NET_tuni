@@ -42,7 +42,21 @@ Why do we require Layered architecture?
 
 5. Can two consecutive IP packets from a single source take different path in network?
 Why or why not?
+> Can two packets from the same device take different routes?  
+> - Each router examines and sends each IP packet individually — this is called packet switching. If the network changes, due to congestion or faults, routers can use an alternative interfaces to reach a destination. So packets may travel over different routes to reach the same destination.   
+> https://www.futurelearn.com/info/courses/introduction-to-networking/0/steps/53448
 >
+> Can packets be sent along different paths?
+> - Different paths can be used to route packets to their destination. This process is known as packet switching. If an error occurs, the packets can be stored and retransmitted later. Packets use the best route available for delivery.
+> https://www.techtarget.com
+>
+> Why do data packets travel along different paths to get to your computer?
+> - Packet switching is the transfer of small pieces of data across various networks. These data chunks or “packets” allow for faster, more efficient data transfer. Often, when a user sends a file across a network, it gets transferred in smaller data packets, not in one piece.  
+> https://avinetworks.com/glossary/packet-switching/
+> 
+> Do packets always take the same route from sender to receiver?  
+> - Information on the Internet is not sent all at once, but is instead broken into smaller chunks of data called packets. Each packet is sent through the Internet individually and may actually take different paths or arrive at different times than others. Once they arrive the receiver will use the packets to recreate the original file.  
+> https://quorumlanguage.com/lessons/code/Digital-Information/Lesson5.html
 
 6. Which protocol is utilized in tracert (traceroute) routines? How does they work?
 >  https://www.fortinet.com/resources/cyberglossary/traceroutes  
