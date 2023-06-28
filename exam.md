@@ -84,7 +84,11 @@ Why or why not?
 > https://www.serverbrain.org/network-design-2003/to-network-id-or-host-id-that-is-the-question.html
 
 8. Why are two subnetwork addresses reserved in any subnetwork? Which are those?
-> 
+> For largely historical reasons, two addresses are reserved on every subnet.   
+> They are the smallest and largest addresses - those two with all 0s and all 1s in the host field (the bits to the right of the prefix boundary). No host can be assigned either of these reserved addresses.  
+> The all 0s address was used by older routing protocols to distinguish a subnet route from a 32-bit host route. The all 1s address was used to broadcast to all hosts on the subnet.  
+> https://www.freesoft.org/CIE/Course/Subnet/103.htm
+
 
 9. Which of these subnets have more addressed for hosts: 10.0.0.0/8 or 172.16.0.0/12?
 >
