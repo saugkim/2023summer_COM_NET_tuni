@@ -3,11 +3,11 @@
 1. Why do we need layered protocols organization for communications, e.g., OSI?
 > The data is passed from the upper layer to lower layer through an interface. A Layered architecture provides a clean-cut interface so that minimum information is shared among different layers. It also ensures that the implementation of one layer can be easily replaced by another implementation [source](https://www.javatpoint.com/computer-network-models#:~:text=A%20Layered%20architecture%20provides%20a,is%20known%20as%20network%20architecture)
 > 
-Why do we require Layered architecture?
- - Divide-and-conquer approach: Divide-and-conquer approach makes a design process in such a way that the unmanageable tasks are divided into small and manageable tasks. In short, we can say that this approach reduces the complexity of the design.
- - Modularity: Layered architecture is more modular. Modularity provides the independence of layers, which is easier to understand and implement.
- - Easy to modify: It ensures the independence of layers so that implementation in one layer can be changed without affecting other layers.
- - Easy to test: Each layer of the layered architecture can be analyzed and tested individually.
+> Why do we require Layered architecture?
+> - Divide-and-conquer approach: Divide-and-conquer approach makes a design process in such a way that the unmanageable tasks are divided into small and manageable tasks. In short, we can say that this approach reduces the complexity of the design.
+> - Modularity: Layered architecture is more modular. Modularity provides the independence of layers, which is easier to understand and implement.
+> - Easy to modify: It ensures the independence of layers so that implementation in one layer can be changed without affecting other layers.
+> - Easy to test: Each layer of the layered architecture can be analyzed and tested individually.
 
 2. Name at least two link-layer network topologies. Discuss advantages and shortcomings.
 > **Types of Network Topology**  
@@ -80,8 +80,7 @@ Why or why not?
 > - This is the part of the IP address that you assign to each host. It uniquely identifies this machine on your network. Note that for each host on your network, the network part of the address will be the same, but the host part must be different.
 >  
 > Why do we need network ID?
-> - An IP address consists of two components: a network ID and a host ID. The network ID identifies the network segment to which the host belongs. The host ID identifies an individual host on some specific network segment. A host can communicate directly only with other hosts on the same network segment. A network segment is a logical division of a network into unique numeric network IDs called subnets. A host must use a router to communicate with hosts on other subnets.
-> 
+> - An IP address consists of two components: a network ID and a host ID. The network ID identifies the network segment to which the host belongs. The host ID identifies an individual host on some specific network segment. A host can communicate directly only with other hosts on the same network segment. A network segment is a logical division of a network into unique numeric network IDs called subnets. A host must use a router to communicate with hosts on other subnets.  
 > https://www.serverbrain.org/network-design-2003/to-network-id-or-host-id-that-is-the-question.html
 
 8. Why are two subnetwork addresses reserved in any subnetwork? Which are those?
