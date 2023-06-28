@@ -35,7 +35,9 @@ Why or why not?
 >
 
 6. Which protocol is utilized in tracert (traceroute) routines? How does they work?
+>  https://www.fortinet.com/resources/cyberglossary/traceroutes
 >
+> 
 
 7. Why two logical parts an IP address consists of? Why do we need that?
 > The bytes of the IP address are further classified into two parts: the network part and the host part. Figure 3-1 shows the component parts of a typical IP address, 129.144.50.56.
