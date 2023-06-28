@@ -133,7 +133,11 @@ Hosts/Net: 1048574               (Private Internet)
 >
 
 14. What are the two service models in the Internet?
+> traditional lightweight service model
+> heavyweight grid service model 
+> https://www.cs.cmu.edu/afs/cs/project/cmcl/archive/Remulac-papers/msu99/sld015.htm
 >
+> 
 
 15. Choose ands briefly describe one application layer protocol.
 > 
